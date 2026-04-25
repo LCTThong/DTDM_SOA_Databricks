@@ -329,15 +329,15 @@ Cấu trúc repo:
 
 ### Danh sách công việc còn lại
 
-| # | Công việc | Độ ưu tiên | Người phụ trách |
-|---|-----------|-----------|----------------|
-| 1 | Fix ETL — gender mapping | 🔴 Cao | [Thành viên 2] |
-| 2 | Thiết lập Job schedule (trigger tự động) | 🟡 Trung bình | [Thành viên 1] |
-| 3 | Xây dựng Databricks SQL Dashboard | 🔴 Cao | [Thành viên 3] |
-| 4 | Phân tích nâng cao: cohort, retention, RFM | 🟡 Trung bình | [Thành viên 3] |
-| 5 | Hoàn thiện GitHub (README, documentation) | 🟢 Thấp | [Thành viên 4] |
-| 6 | Kiểm thử toàn pipeline end-to-end | 🔴 Cao | [Thành viên 5] |
-| 7 | Chuẩn bị slide & báo cáo cuối kỳ | 🔴 Cao | Cả nhóm |
+| # | Công việc | Độ ưu tiên | 
+|---|-----------|-----------|
+| 1 | Fix ETL — gender mapping | 🔴 Cao | 
+| 2 | Thiết lập Job schedule (trigger tự động) | 🟡 Trung bình |
+| 3 | Xây dựng Databricks SQL Dashboard | 🔴 Cao | 
+| 4 | Phân tích nâng cao: cohort, retention, RFM | 🟡 Trung bình | 
+| 5 | Hoàn thiện GitHub (README, documentation) | 🟢 Thấp | 
+| 6 | Kiểm thử toàn pipeline end-to-end | 🔴 Cao | 
+| 7 | Chuẩn bị slide & báo cáo cuối kỳ | 🔴 Cao | 
 
 ### Timeline dự kiến
 
